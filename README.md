@@ -4,5 +4,5 @@ SCRIPT - bash_icmp
 title = "Simple icmp bash scanner"
 ```
 ```
-root@kali ~$ ./
+root@kali ~$ ./scanner.sh
 ```
