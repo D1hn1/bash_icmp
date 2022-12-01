@@ -1,3 +1,8 @@
-# bash_icmp
+SCRIPT - bash_icmp
 
-Simple icmp bash scanner
+```python
+title = "Simple icmp bash scanner"
+```
+```
+root@kali ~$ ./
+```
